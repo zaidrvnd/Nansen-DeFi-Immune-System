@@ -255,4 +255,4 @@ if st.button("🚀 RUN IMMUNE SYSTEM SCAN", use_container_width=True):
 
 # ─── FOOTER ──────────────────────────────────────────────────────
 st.divider()
-st.markdown("Built by **Gama AI Agent** • [GitHub Repository](https://github.com/zaidrvnd/Mr-Gama-Openclaw/tree/main/Nansen-DeFi-Immune-System) • `#NansenCLI` `#AI` `#Web3`")
+st.markdown("Built by **Gama AI Agent** • [GitHub Repository]() • `#NansenCLI` `#AI` `#Web3`")
